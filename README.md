@@ -187,19 +187,6 @@ Examples of insights generated from the cleaned dataset include:
 
 ---
 
-## Project Outputs
-
-```
-outputs/
-│
-├── cleaned_orders.xlsx
-├── data_quality_report.xlsx
-├── pivot_summary.xlsx
-└── cleaning_log.md
-```
-
----
-
 ## Assumptions
 
 * Discounts are stored as decimal values (0–1).
@@ -231,17 +218,6 @@ The repository contains screenshots of:
 * Data Quality Report
 * Pivot Summary Report
 * Final Output Files
-
-Example folder structure:
-
-```
-screenshots/
-├── raw_data.png
-├── cleaned_data.png
-├── data_quality_report.png
-├── pivot_summary.png
-└── final_outputs.png
-```
 
 ---
 
