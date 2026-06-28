@@ -110,7 +110,7 @@ Created the following columns:
 
 ## 7. Limitations
 
-- Ambiguous date formats (e.g., 04/10/2025) may require manual verification.
+- Ambiguous date formats may require manual verification.
 - Similar category names not present in the mapping dictionary may remain inconsistent.
 - Business validation was limited to the rules provided.
 - Flagged records should be manually reviewed before production use.
