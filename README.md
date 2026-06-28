@@ -13,7 +13,7 @@ The objective was to transform the raw dataset into a clean, analysis-ready data
 
 ## Dataset Description
 
-**Source File:** `raw_orders.xlsx`
+**Source File:** raw_orders.xlsx
 
 **Records:** 932
 
@@ -47,11 +47,10 @@ The objective was to transform the raw dataset into a clean, analysis-ready data
 
 ## Tools Used
 
-* Python 3.x
+* Python 
 * Pandas
 * NumPy
 * OpenPyXL
-* Jupyter Notebook / VS Code
 * Microsoft Excel (Validation)
 
 ---
@@ -138,10 +137,6 @@ Examples of issues identified:
 * Missing Region
 * Missing Ship Mode
 * Ship dates before order dates
-
-The complete summary is available in:
-
-* `outputs/data_quality_report.xlsx`
 
 ---
 
